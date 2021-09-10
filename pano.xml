@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="6.1.0" start="node30" apprev="17841">
+  <panorama id="node1">
+    <input prev5url="images/Слой 0_o_preview_5.jpg" tile0url="images/Слой 0_o_0.jpg" tile5url="images/Слой 0_o_5.jpg" tilevrurl="images/Слой 0_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 0_o_2.jpg" levelingroll="1.89056" prev3url="images/Слой 0_o_preview_3.jpg" prev4url="images/Слой 0_o_preview_4.jpg" tile3url="images/Слой 0_o_3.jpg" prev1url="images/Слой 0_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 0_o_1.jpg" levelingpitch="0.846641" prev2url="images/Слой 0_o_preview_2.jpg" tile4url="images/Слой 0_o_4.jpg" prev0url="images/Слой 0_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-7.73" pan="71.01" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node1" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node2}" customimageheight="1500" tilt="-19.14" customimage="media/redhotchillypeppers - 45.png" pan="-312.03" use3D="1" distance3D="6585.87" customimagewidth="2100" skinid="ht_node" target="" fov="18.1171"/>
+      <hotspot id="Point02" title="" description="" url="{node4}" customimageheight="800" tilt="-16.52" customimage="media/redhotchillypeppers.png" pan="-144.41" use3D="1" distance3D="5518.74" customimagewidth="800" skinid="ht_node" target="" fov="8.29114"/>
+      <hotspot id="Point03" title="" description="" url="{node3}" customimageheight="1500" tilt="-6.57" customimage="media/redhotchillypeppers.png 45.png" pan="-310.15" use3D="1" distance3D="12175.8" customimagewidth="2100" skinid="ht_node" target="" fov="9.85759"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input prev5url="images/Слой 1_o_preview_5.jpg" tile0url="images/Слой 1_o_0.jpg" tile5url="images/Слой 1_o_5.jpg" tilevrurl="images/Слой 1_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 1_o_2.jpg" levelingroll="1.34683" prev3url="images/Слой 1_o_preview_3.jpg" prev4url="images/Слой 1_o_preview_4.jpg" tile3url="images/Слой 1_o_3.jpg" prev1url="images/Слой 1_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 1_o_1.jpg" levelingpitch="1.60336" prev2url="images/Слой 1_o_preview_2.jpg" tile4url="images/Слой 1_o_4.jpg" prev0url="images/Слой 1_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-4.13" pan="-158.3" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node2" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node3}" customimageheight="1500" tilt="-3.83" customimage="media/redhotchillypeppers.png 45.png" pan="-138.58" use3D="1" distance3D="9022.95" customimagewidth="2100" skinid="ht_node" target="" fov="13.2753"/>
+      <hotspot id="Point02" title="" description="" url="{node1}" customimageheight="800" tilt="-12.82" customimage="media/redhotchillypeppers.png" pan="-306.7" use3D="1" distance3D="6955.98" customimagewidth="800" skinid="ht_node" target="" fov="6.58228"/>
+      <hotspot id="Point03" title="" description="" url="{node3}" customimageheight="800" tilt="-11.55" customimage="media/redhotchillypeppers.png" pan="-138.03" use3D="1" distance3D="7110.14" customimagewidth="800" skinid="ht_node" target="" fov="6.43987"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input prev5url="images/Слой 2_o_preview_5.jpg" tile0url="images/Слой 2_o_0.jpg" tile5url="images/Слой 2_o_5.jpg" tilevrurl="images/Слой 2_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 2_o_2.jpg" levelingroll="3.11545" prev3url="images/Слой 2_o_preview_3.jpg" prev4url="images/Слой 2_o_preview_4.jpg" tile3url="images/Слой 2_o_3.jpg" prev1url="images/Слой 2_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 2_o_1.jpg" levelingpitch="0.402203" prev2url="images/Слой 2_o_preview_2.jpg" tile4url="images/Слой 2_o_4.jpg" prev0url="images/Слой 2_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-5.54" pan="75.4" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node3" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node26}" tilt="-20.99" pan="-152.26" skinid="ht_node" target=""/>
+      <hotspot id="Point02" title="" description="" url="{node2}" customimageheight="1500" tilt="-16.51" customimage="media/redhotchillypeppers - 45.png" pan="-316.48" use3D="1" distance3D="8140.5" customimagewidth="2100" skinid="ht_node" target="" fov="14.6994"/>
+      <hotspot id="Point03" title="" description="" url="{node5}" customimageheight="800" tilt="-10" customimage="media/redhotchillypeppers.png" pan="-241.8" use3D="1" distance3D="5615.52" customimagewidth="800" skinid="ht_node" target="" fov="8.14873"/>
+      <hotspot id="Point04" title="" description="" url="{node1}" customimageheight="1500" tilt="-4.31" customimage="media/redhotchillypeppers.png 45.png" pan="-308.71" use3D="1" distance3D="12001.6" customimagewidth="2100" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input prev5url="images/Слой 3_o_preview_5.jpg" tile0url="images/Слой 3_o_0.jpg" tile5url="images/Слой 3_o_5.jpg" tilevrurl="images/Слой 3_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 3_o_2.jpg" levelingroll="1.61898" prev3url="images/Слой 3_o_preview_3.jpg" prev4url="images/Слой 3_o_preview_4.jpg" tile3url="images/Слой 3_o_3.jpg" prev1url="images/Слой 3_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 3_o_1.jpg" levelingpitch="-0.121523" prev2url="images/Слой 3_o_preview_2.jpg" tile4url="images/Слой 3_o_4.jpg" prev0url="images/Слой 3_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.86" pan="159.24" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node4" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node16}" customimageheight="1500" tilt="-23.91" customimage="media/redhotchillypeppers.png 45.png" pan="-66.71" use3D="1" distance3D="9761.8" customimagewidth="2100" skinid="ht_node" target="" fov="12.2785"/>
+      <hotspot id="Point02" title="" description="" url="{node1}" customimageheight="1500" tilt="-22.71" customimage="media/redhotchillypeppers - 45.png" pan="-204.63" use3D="1" distance3D="6097.54" customimagewidth="2100" skinid="ht_node" target="" fov="19.5411"/>
+      <hotspot id="Point03" title="" description="" url="{node31}" customimageheight="800" tilt="-16.67" customimage="media/redhotchillypeppers.png" pan="-330.04" use3D="1" distance3D="5080.69" customimagewidth="800" skinid="ht_node" target="" fov="9.003159999999999"/>
+      <hotspot id="Point04" title="" description="" url="{node7}" customimageheight="1500" tilt="-5.4" customimage="media/redhotchillypeppers -90.png" pan="-138.09" use3D="1" distance3D="7347.44" customimagewidth="2100" skinid="ht_node" target="" fov="16.2658"/>
+      <hotspot id="Point05" title="" description="" url="{node13}" customimageheight="1500" tilt="5.88" customimage="media/redhotchillypeppers - 45.png" pan="-82.34" use3D="1" distance3D="8559.41" customimagewidth="2100" skinid="ht_node" target="" fov="13.9873"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node31">
+    <input prev5url="images/Слой 4_o_preview_5.jpg" tile0url="images/Слой 4_o_0.jpg" tile5url="images/Слой 4_o_5.jpg" tilevrurl="images/Слой 4_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 4_o_2.jpg" levelingroll="3.61664" prev3url="images/Слой 4_o_preview_3.jpg" prev4url="images/Слой 4_o_preview_4.jpg" tile3url="images/Слой 4_o_3.jpg" prev1url="images/Слой 4_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 4_o_1.jpg" levelingpitch="1.24552" prev2url="images/Слой 4_o_preview_2.jpg" tile4url="images/Слой 4_o_4.jpg" prev0url="images/Слой 4_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1.22" pan="-56.23" fov="90.73" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node31" latitude="" author="" longitude="" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node4}" customimageheight="1500" tilt="-11.65" customimage="media/redhotchillypeppers - 45.png" pan="-168.2" use3D="1" distance3D="8061.53" customimagewidth="2100" skinid="ht_node" target="" fov="14.8418"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input prev5url="images/Слой 5_o_preview_5.jpg" tile0url="images/Слой 5_o_0.jpg" tile5url="images/Слой 5_o_5.jpg" tilevrurl="images/Слой 5_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 5_o_2.jpg" levelingroll="1.57232" prev3url="images/Слой 5_o_preview_3.jpg" prev4url="images/Слой 5_o_preview_4.jpg" tile3url="images/Слой 5_o_3.jpg" prev1url="images/Слой 5_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 5_o_1.jpg" levelingpitch="1.42159" prev2url="images/Слой 5_o_preview_2.jpg" tile4url="images/Слой 5_o_4.jpg" prev0url="images/Слой 5_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-4.83" pan="-38.1" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node5" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node3}" customimageheight="800" tilt="-12.31" customimage="media/redhotchillypeppers.png" pan="-357.64" use3D="1" distance3D="6666.83" customimagewidth="800" skinid="ht_node" target="" fov="6.86709"/>
+      <hotspot id="Point02" title="" description="" url="{node6}" customimageheight="1500" tilt="-12.49" customimage="media/redhotchillypeppers.png 45.png" pan="-60.8" use3D="1" distance3D="7219.27" customimagewidth="2100" skinid="ht_node" target="" fov="16.5506"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input prev5url="images/Слой 6_o_preview_5.jpg" tile0url="images/Слой 6_o_0.jpg" tile5url="images/Слой 6_o_5.jpg" tilevrurl="images/Слой 6_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 6_o_2.jpg" levelingroll="3.32356" prev3url="images/Слой 6_o_preview_3.jpg" prev4url="images/Слой 6_o_preview_4.jpg" tile3url="images/Слой 6_o_3.jpg" prev1url="images/Слой 6_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 6_o_1.jpg" levelingpitch="0.320288" prev2url="images/Слой 6_o_preview_2.jpg" tile4url="images/Слой 6_o_4.jpg" prev0url="images/Слой 6_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="2.23" pan="-117.57" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node6" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node5}" customimageheight="1500" tilt="-15.94" customimage="media/redhotchillypeppers - 45.png" pan="-29.53" use3D="1" distance3D="9325.62" customimagewidth="2100" skinid="ht_node" target="" fov="12.8481"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input prev5url="images/Слой 7_o_preview_5.jpg" tile0url="images/Слой 7_o_0.jpg" tile5url="images/Слой 7_o_5.jpg" tilevrurl="images/Слой 7_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 7_o_2.jpg" levelingroll="3.29437" prev3url="images/Слой 7_o_preview_3.jpg" prev4url="images/Слой 7_o_preview_4.jpg" tile3url="images/Слой 7_o_3.jpg" prev1url="images/Слой 7_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 7_o_1.jpg" levelingpitch="3.59937" prev2url="images/Слой 7_o_preview_2.jpg" tile4url="images/Слой 7_o_4.jpg" prev0url="images/Слой 7_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.86" pan="44.26" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node7" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node4}" customimageheight="1500" tilt="-13.16" customimage="media/redhotchillypeppers.png 45.png" pan="-163.94" use3D="1" distance3D="7617.62" customimagewidth="2100" skinid="ht_node" target="" fov="15.6962"/>
+      <hotspot id="Point02" title="" description="" url="{node8}" customimageheight="800" tilt="-17.04" customimage="media/redhotchillypeppers.png" pan="-270.5" use3D="1" distance3D="4849.22" customimagewidth="800" skinid="ht_node" target="" fov="9.431010000000001"/>
+      <hotspot id="Point03" title="" description="" url="{node11}" customimageheight="800" tilt="-12.04" customimage="media/redhotchillypeppers.png" pan="-3.98" use3D="1" distance3D="5425.22" customimagewidth="800" skinid="ht_node" target="" fov="8.433540000000001"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input prev5url="images/Слой 8_o_preview_5.jpg" tile0url="images/Слой 8_o_0.jpg" tile5url="images/Слой 8_o_5.jpg" tilevrurl="images/Слой 8_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 8_o_2.jpg" levelingroll="3.55474" prev3url="images/Слой 8_o_preview_3.jpg" prev4url="images/Слой 8_o_preview_4.jpg" tile3url="images/Слой 8_o_3.jpg" prev1url="images/Слой 8_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 8_o_1.jpg" levelingpitch="1.47731" prev2url="images/Слой 8_o_preview_2.jpg" tile4url="images/Слой 8_o_4.jpg" prev0url="images/Слой 8_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="4.55" pan="-98.26" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node8" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node7}" tilt="-4.52" pan="-235.55" skinid="ht_node" target=""/>
+      <hotspot id="Point02" title="" description="" url="{node9}" customimageheight="1500" tilt="-7.5" customimage="media/redhotchillypeppers - 45.png" pan="-45.86" use3D="1" distance3D="7548.26" customimagewidth="2100" skinid="ht_node" target="" fov="15.8386"/>
+      <hotspot id="Point03" title="" description="" url="{node10}" customimageheight="800" tilt="-10.2" customimage="media/redhotchillypeppers.png" pan="-130.02" use3D="1" distance3D="6275.41" customimagewidth="800" skinid="ht_node" target="" fov="7.2943"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input prev5url="images/Слой 9_o_preview_5.jpg" tile0url="images/Слой 9_o_0.jpg" tile5url="images/Слой 9_o_5.jpg" tilevrurl="images/Слой 9_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 9_o_2.jpg" levelingroll="2.86947" prev3url="images/Слой 9_o_preview_3.jpg" prev4url="images/Слой 9_o_preview_4.jpg" tile3url="images/Слой 9_o_3.jpg" prev1url="images/Слой 9_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 9_o_1.jpg" levelingpitch="-0.0141032" prev2url="images/Слой 9_o_preview_2.jpg" tile4url="images/Слой 9_o_4.jpg" prev0url="images/Слой 9_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.04" pan="-90.54" fov="87.64" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node9" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:20" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node8}" customimageheight="1500" tilt="-33.78" customimage="media/redhotchillypeppers - 45.png" pan="-167.37" use3D="1" distance3D="6284.15" customimagewidth="2100" skinid="ht_node" target="" fov="18.9715"/>
+      <hotspot id="Point02" title="" description="" url="{node7}" customimageheight="1500" tilt="-8.67" customimage="media/redhotchillypeppers - 45.png" pan="-193.39" use3D="1" distance3D="7831.32" customimagewidth="2100" skinid="ht_node" target="" fov="15.273"/>
+      <hotspot id="Point03" title="" description="" url="{node10}" customimageheight="1500" tilt="-13.26" customimage="media/redhotchillypeppers - 45.png" pan="-108.76" use3D="1" distance3D="7548.26" customimagewidth="2100" skinid="ht_node" target="" fov="15.8386"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input prev5url="images/Слой 10_o_preview_5.jpg" tile0url="images/Слой 10_o_0.jpg" tile5url="images/Слой 10_o_5.jpg" tilevrurl="images/Слой 10_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 10_o_2.jpg" levelingroll="3.22351" prev3url="images/Слой 10_o_preview_3.jpg" prev4url="images/Слой 10_o_preview_4.jpg" tile3url="images/Слой 10_o_3.jpg" prev1url="images/Слой 10_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 10_o_1.jpg" levelingpitch="0.142271" prev2url="images/Слой 10_o_preview_2.jpg" tile4url="images/Слой 10_o_4.jpg" prev0url="images/Слой 10_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-24.22" pan="153.93" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node10" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node9}" customimageheight="1500" tilt="-16.88" customimage="media/redhotchillypeppers.png 45.png" pan="-203.16" use3D="1" distance3D="13336.8" customimagewidth="2100" skinid="ht_node" target="" fov="9.003159999999999"/>
+      <hotspot id="Point02" title="" description="" url="{node8}" customimageheight="1500" tilt="-43.35" customimage="media/redhotchillypeppers - 45.png" pan="-173.14" use3D="1" distance3D="6533.64" customimagewidth="2100" skinid="ht_node" target="" fov="18.2595"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input prev5url="images/Слой 11_o_preview_5.jpg" tile0url="images/Слой 11_o_0.jpg" tile5url="images/Слой 11_o_5.jpg" tilevrurl="images/Слой 11_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 11_o_2.jpg" levelingroll="2.41706" prev3url="images/Слой 11_o_preview_3.jpg" prev4url="images/Слой 11_o_preview_4.jpg" tile3url="images/Слой 11_o_3.jpg" prev1url="images/Слой 11_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 11_o_1.jpg" levelingpitch="0.699989" prev2url="images/Слой 11_o_preview_2.jpg" tile4url="images/Слой 11_o_4.jpg" prev0url="images/Слой 11_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.54" pan="152.6" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node11" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node7}" customimageheight="800" tilt="-15.26" customimage="media/redhotchillypeppers.png" pan="-62.06" use3D="1" distance3D="4444.15" customimagewidth="800" skinid="ht_node" target="" fov="10.2862"/>
+      <hotspot id="Point02" title="" description="" url="{node12}" customimageheight="800" tilt="-14.96" customimage="media/redhotchillypeppers.png" pan="-233.23" use3D="1" distance3D="7995.75" customimagewidth="800" skinid="ht_node" target="" fov="5.72785"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node12">
+    <input prev5url="images/Слой 12_o_preview_5.jpg" tile0url="images/Слой 12_o_0.jpg" tile5url="images/Слой 12_o_5.jpg" tilevrurl="images/Слой 12_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 12_o_2.jpg" levelingroll="3.92597" prev3url="images/Слой 12_o_preview_3.jpg" prev4url="images/Слой 12_o_preview_4.jpg" tile3url="images/Слой 12_o_3.jpg" prev1url="images/Слой 12_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 12_o_1.jpg" levelingpitch="0.11731" prev2url="images/Слой 12_o_preview_2.jpg" tile4url="images/Слой 12_o_4.jpg" prev0url="images/Слой 12_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.63" pan="97.01" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node12" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node11}" customimageheight="800" tilt="-17.58" customimage="media/redhotchillypeppers.png" pan="-228.32" use3D="1" distance3D="4924.24" customimagewidth="800" skinid="ht_node" target="" fov="9.28797"/>
+      <hotspot id="Point02" title="" description="" url="{node7}" customimageheight="1500" tilt="-3.51" customimage="media/redhotchillypeppers.png 45.png" pan="-230.22" use3D="1" distance3D="12001.6" customimagewidth="2100" skinid="ht_node" target="" fov="10"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node13">
+    <input prev5url="images/Слой 13_o_preview_5.jpg" tile0url="images/Слой 13_o_0.jpg" tile5url="images/Слой 13_o_5.jpg" tilevrurl="images/Слой 13_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 13_o_2.jpg" levelingroll="3.38362" prev3url="images/Слой 13_o_preview_3.jpg" prev4url="images/Слой 13_o_preview_4.jpg" tile3url="images/Слой 13_o_3.jpg" prev1url="images/Слой 13_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 13_o_1.jpg" levelingpitch="1.52631" prev2url="images/Слой 13_o_preview_2.jpg" tile4url="images/Слой 13_o_4.jpg" prev0url="images/Слой 13_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2" pan="-20.03" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node13" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node4}" customimageheight="1500" tilt="-17.5" customimage="media/redhotchillypeppers.png 45.png" pan="-127" use3D="1" distance3D="8061.53" customimagewidth="2100" skinid="ht_node" target="" fov="14.8418"/>
+      <hotspot id="Point02" title="" description="" url="{node14}" customimageheight="1500" tilt="-5.52" customimage="media/redhotchillypeppers.png 45.png" pan="-3.69" use3D="1" distance3D="10236.4" customimagewidth="2100" skinid="ht_node" target="" fov="11.7133"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input prev5url="images/Слой 14_o_preview_5.jpg" tile0url="images/Слой 14_o_0.jpg" tile5url="images/Слой 14_o_5.jpg" tilevrurl="images/Слой 14_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 14_o_2.jpg" levelingroll="2.0206" prev3url="images/Слой 14_o_preview_3.jpg" prev4url="images/Слой 14_o_preview_4.jpg" tile3url="images/Слой 14_o_3.jpg" prev1url="images/Слой 14_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 14_o_1.jpg" levelingpitch="1.85845" prev2url="images/Слой 14_o_preview_2.jpg" tile4url="images/Слой 14_o_4.jpg" prev0url="images/Слой 14_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-8.38" pan="-14.19" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node14" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node13}" customimageheight="1500" tilt="-20.07" customimage="media/redhotchillypeppers -90.png" pan="-264.89" use3D="1" distance3D="10767.6" customimagewidth="2100" skinid="ht_node" target="" fov="11.1392"/>
+      <hotspot id="Point02" title="" description="" url="{node15}" customimageheight="800" tilt="-17.53" customimage="media/redhotchillypeppers.png" pan="-92.09" use3D="1" distance3D="6531.07" customimagewidth="800" skinid="ht_node" target="" fov="7.00949"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input prev5url="images/Слой 15_o_preview_5.jpg" tile0url="images/Слой 15_o_0.jpg" tile5url="images/Слой 15_o_5.jpg" tilevrurl="images/Слой 15_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 15_o_2.jpg" levelingroll="2.6488" prev3url="images/Слой 15_o_preview_3.jpg" prev4url="images/Слой 15_o_preview_4.jpg" tile3url="images/Слой 15_o_3.jpg" prev1url="images/Слой 15_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 15_o_1.jpg" levelingpitch="1.80522" prev2url="images/Слой 15_o_preview_2.jpg" tile4url="images/Слой 15_o_4.jpg" prev0url="images/Слой 15_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.32" pan="1.3" fov="60.5" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node15" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node14}" customimageheight="1500" tilt="-21.23" customimage="media/redhotchillypeppers.png 45.png" pan="-249.41" use3D="1" distance3D="7833.4" customimagewidth="2100" skinid="ht_node" target="" fov="15.269"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input prev5url="images/Слой 16_o_preview_5.jpg" tile0url="images/Слой 16_o_0.jpg" tile5url="images/Слой 16_o_5.jpg" tilevrurl="images/Слой 16_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 16_o_2.jpg" levelingroll="1.51951" prev3url="images/Слой 16_o_preview_3.jpg" prev4url="images/Слой 16_o_preview_4.jpg" tile3url="images/Слой 16_o_3.jpg" prev1url="images/Слой 16_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 16_o_1.jpg" levelingpitch="-0.13548" prev2url="images/Слой 16_o_preview_2.jpg" tile4url="images/Слой 16_o_4.jpg" prev0url="images/Слой 16_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="2.2" pan="-122.05" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node16" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node27}" customimageheight="800" tilt="-21.59" customimage="media/redhotchillypeppers.png" pan="-263.43" use3D="1" distance3D="4155.38" customimagewidth="800" skinid="ht_node" target="" fov="10.9968"/>
+      <hotspot id="Point02" title="" description="" url="{node21}" customimageheight="800" tilt="-8.45" customimage="media/redhotchillypeppers.png" pan="-88.9" use3D="1" distance3D="7110.14" customimagewidth="800" skinid="ht_node" target="" fov="6.43987"/>
+      <hotspot id="Point03" title="" description="" url="{node4}" customimageheight="1500" tilt="1.46" customimage="media/redhotchillypeppers - 45.png" pan="-186.35" use3D="1" distance3D="8926.32" customimagewidth="2100" skinid="ht_node" target="" fov="13.4177"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input prev5url="images/Слой 17_o_preview_5.jpg" tile0url="images/Слой 17_o_0.jpg" tile5url="images/Слой 17_o_5.jpg" tilevrurl="images/Слой 17_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 17_o_2.jpg" levelingroll="1.12449" prev3url="images/Слой 17_o_preview_3.jpg" prev4url="images/Слой 17_o_preview_4.jpg" tile3url="images/Слой 17_o_3.jpg" prev1url="images/Слой 17_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 17_o_1.jpg" levelingpitch="0.272267" prev2url="images/Слой 17_o_preview_2.jpg" tile4url="images/Слой 17_o_4.jpg" prev0url="images/Слой 17_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.11" pan="-92.63" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node17" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:47" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node21}" customimageheight="1500" tilt="-3.18" customimage="media/redhotchillypeppers -90.png" pan="-52.44" use3D="1" distance3D="18259.4" customimagewidth="2100" skinid="ht_node" target="" fov="6.58228"/>
+      <hotspot id="Point02" title="" description="" url="{node18}" customimageheight="1500" tilt="-5.56" customimage="media/redhotchillypeppers.png 45.png" pan="-66.78" use3D="1" distance3D="13336.8" customimagewidth="2100" skinid="ht_node" target="" fov="9.003159999999999"/>
+      <hotspot id="Point03" title="" description="" url="{node19}" customimageheight="1500" tilt="-5.87" customimage="media/redhotchillypeppers.png 45.png" pan="-108.55" use3D="1" distance3D="13554.4" customimagewidth="2100" skinid="ht_node" target="" fov="8.85924"/>
+      <hotspot id="Point04" title="" description="" url="{node20}" customimageheight="800" tilt="5.25" customimage="media/redhotchillypeppers.png" pan="-102.33" use3D="1" distance3D="8641.22" customimagewidth="800" skinid="ht_node" target="" fov="5.30063"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input prev5url="images/Слой 18_o_preview_5.jpg" tile0url="images/Слой 18_o_0.jpg" tile5url="images/Слой 18_o_5.jpg" tilevrurl="images/Слой 18_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 18_o_2.jpg" levelingroll="2.99868" prev3url="images/Слой 18_o_preview_3.jpg" prev4url="images/Слой 18_o_preview_4.jpg" tile3url="images/Слой 18_o_3.jpg" prev1url="images/Слой 18_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 18_o_1.jpg" levelingpitch="2.00296" prev2url="images/Слой 18_o_preview_2.jpg" tile4url="images/Слой 18_o_4.jpg" prev0url="images/Слой 18_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-4.42" pan="-80.75" fov="70" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node18" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node17}" customimageheight="1500" tilt="-4.81" customimage="media/redhotchillypeppers - 45.png" pan="-158.06" use3D="1" distance3D="8386.82" customimagewidth="2100" skinid="ht_node" target="" fov="14.2722"/>
+      <hotspot id="Point02" title="" description="" url="{node19}" customimageheight="800" tilt="-11.96" customimage="media/redhotchillypeppers.png" pan="-83.14" use3D="1" distance3D="6666.83" customimagewidth="800" skinid="ht_node" target="" fov="6.86709"/>
+      <hotspot id="Point03" title="" description="" url="{node20}" customimageheight="1500" tilt="9.69" customimage="media/redhotchillypeppers - 45.png" pan="-30.28" use3D="1" distance3D="12001.6" customimagewidth="2100" skinid="ht_node" target="" fov="10"/>
+      <hotspot id="Point04" title="" description="" url="{node21}" customimageheight="800" tilt="-19.44" customimage="media/redhotchillypeppers.png" pan="-256.8" use3D="1" distance3D="3592.77" customimagewidth="800" skinid="ht_node" target="" fov="12.7057"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input prev5url="images/Слой 19_o_preview_5.jpg" tile0url="images/Слой 19_o_0.jpg" tile5url="images/Слой 19_o_5.jpg" tilevrurl="images/Слой 19_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 19_o_2.jpg" levelingroll="1.93554" prev3url="images/Слой 19_o_preview_3.jpg" prev4url="images/Слой 19_o_preview_4.jpg" tile3url="images/Слой 19_o_3.jpg" prev1url="images/Слой 19_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 19_o_1.jpg" levelingpitch="0.0766976" prev2url="images/Слой 19_o_preview_2.jpg" tile4url="images/Слой 19_o_4.jpg" prev0url="images/Слой 19_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-6.98" pan="122.68" fov="70" projection="4"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node19" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node20}" customimageheight="800" tilt="4.25" customimage="media/redhotchillypeppers.png" pan="-351.83" use3D="1" distance3D="6666.83" customimagewidth="800" skinid="ht_node" target="" fov="6.86709"/>
+      <hotspot id="Point02" title="" description="" url="{node17}" customimageheight="1500" tilt="-3.84" customimage="media/redhotchillypeppers - 45.png" pan="-193.26" use3D="1" distance3D="10116.3" customimagewidth="2100" skinid="ht_node" target="" fov="11.8513"/>
+      <hotspot id="Point03" title="" description="" url="{node18}" customimageheight="800" tilt="-18.8" customimage="media/redhotchillypeppers.png" pan="-259.82" use3D="1" distance3D="6531.07" customimagewidth="800" skinid="ht_node" target="" fov="7.00949"/>
+      <hotspot id="Point04" title="" description="" url="{node21}" customimageheight="800" tilt="-6" customimage="media/redhotchillypeppers.png" pan="-260.48" use3D="1" distance3D="7439.82" customimagewidth="800" skinid="ht_node" target="" fov="6.15506"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input prev5url="images/Слой 20_o_preview_5.jpg" tile0url="images/Слой 20_o_0.jpg" tile5url="images/Слой 20_o_5.jpg" tilevrurl="images/Слой 20_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 20_o_2.jpg" levelingroll="0.567183" prev3url="images/Слой 20_o_preview_3.jpg" prev4url="images/Слой 20_o_preview_4.jpg" tile3url="images/Слой 20_o_3.jpg" prev1url="images/Слой 20_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 20_o_1.jpg" levelingpitch="1.01953" prev2url="images/Слой 20_o_preview_2.jpg" tile4url="images/Слой 20_o_4.jpg" prev0url="images/Слой 20_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-3.12" pan="-19.25" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node20" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node19}" customimageheight="800" tilt="-22.77" customimage="media/redhotchillypeppers.png" pan="-357.76" use3D="1" distance3D="7995.75" customimagewidth="800" skinid="ht_node" target="" fov="5.72785"/>
+      <hotspot id="Point02" title="" description="" url="{node17}" customimageheight="1500" tilt="-9.24" customimage="media/redhotchillypeppers - 45.png" pan="-11.63" use3D="1" distance3D="12969.1" customimagewidth="2100" skinid="ht_node" target="" fov="9.257339999999999"/>
+      <hotspot id="Point03" title="" description="" url="{node18}" customimageheight="1500" tilt="-14.73" customimage="media/redhotchillypeppers.png 45.png" pan="-32.67" use3D="1" distance3D="16472.9" customimagewidth="2100" skinid="ht_node" target="" fov="7.2943"/>
+      <hotspot id="Point04" title="" description="" url="{node21}" customimageheight="1500" tilt="-10.28" customimage="media/redhotchillypeppers.png 45.png" pan="-39.86" use3D="1" distance3D="13128.3" customimagewidth="2100" skinid="ht_node" target="" fov="9.145569999999999"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node21">
+    <input prev5url="images/Слой 21_o_preview_5.jpg" tile0url="images/Слой 21_o_0.jpg" tile5url="images/Слой 21_o_5.jpg" tilevrurl="images/Слой 21_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 21_o_2.jpg" levelingroll="2.74698" prev3url="images/Слой 21_o_preview_3.jpg" prev4url="images/Слой 21_o_preview_4.jpg" tile3url="images/Слой 21_o_3.jpg" prev1url="images/Слой 21_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 21_o_1.jpg" levelingpitch="2.06333" prev2url="images/Слой 21_o_preview_2.jpg" tile4url="images/Слой 21_o_4.jpg" prev0url="images/Слой 21_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.02" pan="-131.2" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node21" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node16}" customimageheight="800" tilt="-8.93" customimage="media/redhotchillypeppers.png" pan="-270.02" use3D="1" distance3D="5247.34" customimagewidth="800" skinid="ht_node" target="" fov="8.718349999999999"/>
+      <hotspot id="Point02" title="" description="" url="{node18}" customimageheight="1500" tilt="-12.01" customimage="media/redhotchillypeppers.png 45.png" pan="-291.04" use3D="1" distance3D="8925.79" customimagewidth="2100" skinid="ht_node" target="" fov="13.4185"/>
+      <hotspot id="Point03" title="" description="" url="{node22}" customimageheight="800" tilt="-9.43" customimage="media/redhotchillypeppers.png" pan="-166.56" use3D="1" distance3D="5819.57" customimagewidth="800" skinid="ht_node" target="" fov="7.86392"/>
+      <hotspot id="Point04" title="" description="" url="{node24}" customimageheight="1500" tilt="-7.45" customimage="media/redhotchillypeppers.png 45.png" pan="-92.83" use3D="1" distance3D="9877.22" customimagewidth="2100" skinid="ht_node" target="" fov="12.1361"/>
+      <hotspot id="Point05" title="" description="" url="{node29}" customimageheight="800" tilt="-4.12" customimage="media/redhotchillypeppers.png" pan="-86.11" use3D="1" distance3D="6531.07" customimagewidth="800" skinid="ht_node" target="" fov="7.00949"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node22">
+    <input prev5url="images/Слой 22_o_preview_5.jpg" tile0url="images/Слой 22_o_0.jpg" tile5url="images/Слой 22_o_5.jpg" tilevrurl="images/Слой 22_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 22_o_2.jpg" levelingroll="1.18277" prev3url="images/Слой 22_o_preview_3.jpg" prev4url="images/Слой 22_o_preview_4.jpg" tile3url="images/Слой 22_o_3.jpg" prev1url="images/Слой 22_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 22_o_1.jpg" levelingpitch="0.198863" prev2url="images/Слой 22_o_preview_2.jpg" tile4url="images/Слой 22_o_4.jpg" prev0url="images/Слой 22_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node22" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node21}" customimageheight="1500" tilt="-1.04" customimage="media/redhotchillypeppers - 45.png" pan="-89.36" use3D="1" distance3D="7760.15" customimagewidth="2100" skinid="ht_node" target="" fov="15.4114"/>
+      <hotspot id="Point02" title="" description="" url="{node23}" customimageheight="800" tilt="-17.56" customimage="media/redhotchillypeppers.png" pan="-268.57" use3D="1" distance3D="5615.52" customimagewidth="800" skinid="ht_node" target="" fov="8.14873"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node23">
+    <input prev5url="images/Слой 23_o_preview_5.jpg" tile0url="images/Слой 23_o_0.jpg" tile5url="images/Слой 23_o_5.jpg" tilevrurl="images/Слой 23_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 23_o_2.jpg" levelingroll="1.38393" prev3url="images/Слой 23_o_preview_3.jpg" prev4url="images/Слой 23_o_preview_4.jpg" tile3url="images/Слой 23_o_3.jpg" prev1url="images/Слой 23_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 23_o_1.jpg" levelingpitch="1.19185" prev2url="images/Слой 23_o_preview_2.jpg" tile4url="images/Слой 23_o_4.jpg" prev0url="images/Слой 23_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-6.37" pan="87.75" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node23" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node22}" customimageheight="800" tilt="-12.35" customimage="media/redhotchillypeppers.png" pan="-92.15" use3D="1" distance3D="8199.95" customimagewidth="800" skinid="ht_node" target="" fov="5.58544"/>
+      <hotspot id="Point02" title="" description="" url="{node21}" customimageheight="1500" tilt="0.71" customimage="media/redhotchillypeppers - 45.png" pan="-91.8" use3D="1" distance3D="11199.6" customimagewidth="2100" skinid="ht_node" target="" fov="10.712"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node24">
+    <input prev5url="images/Слой 24_o_preview_5.jpg" tile0url="images/Слой 24_o_0.jpg" tile5url="images/Слой 24_o_5.jpg" tilevrurl="images/Слой 24_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 24_o_2.jpg" levelingroll="2.96046" prev3url="images/Слой 24_o_preview_3.jpg" prev4url="images/Слой 24_o_preview_4.jpg" tile3url="images/Слой 24_o_3.jpg" prev1url="images/Слой 24_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 24_o_1.jpg" levelingpitch="0.894485" prev2url="images/Слой 24_o_preview_2.jpg" tile4url="images/Слой 24_o_4.jpg" prev0url="images/Слой 24_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-0.3" pan="-88.24" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node24" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node21}" customimageheight="800" tilt="-6.06" customimage="media/redhotchillypeppers.png" pan="-78.88" use3D="1" distance3D="4101.92" customimagewidth="800" skinid="ht_node" target="" fov="11.1392"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node25">
+    <input prev5url="images/Слой 25_o_preview_5.jpg" tile0url="images/Слой 25_o_0.jpg" tile5url="images/Слой 25_o_5.jpg" tilevrurl="images/Слой 25_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 25_o_2.jpg" levelingroll="3.41448" prev3url="images/Слой 25_o_preview_3.jpg" prev4url="images/Слой 25_o_preview_4.jpg" tile3url="images/Слой 25_o_3.jpg" prev1url="images/Слой 25_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 25_o_1.jpg" levelingpitch="1.95794" prev2url="images/Слой 25_o_preview_2.jpg" tile4url="images/Слой 25_o_4.jpg" prev0url="images/Слой 25_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-9.76" pan="-31.41" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node25" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node26}" customimageheight="1500" tilt="-12.47" customimage="media/redhotchillypeppers.png 45.png" pan="-21.53" use3D="1" distance3D="8303.1" customimagewidth="2100" skinid="ht_node" target="" fov="14.4146"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node26">
+    <input prev5url="images/Слой 26_o_preview_5.jpg" tile0url="images/Слой 26_o_0.jpg" tile5url="images/Слой 26_o_5.jpg" tilevrurl="images/Слой 26_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 26_o_2.jpg" levelingroll="2.07567" prev3url="images/Слой 26_o_preview_3.jpg" prev4url="images/Слой 26_o_preview_4.jpg" tile3url="images/Слой 26_o_3.jpg" prev1url="images/Слой 26_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 26_o_1.jpg" levelingpitch="0.8000890000000001" prev2url="images/Слой 26_o_preview_2.jpg" tile4url="images/Слой 26_o_4.jpg" prev0url="images/Слой 26_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-1.14" pan="53" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node26" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node30}" customimageheight="800" tilt="-14.15" distance="6696.9" customimage="media/redhotchillypeppers.png" pan="-70.64" use3D="1" distance3D="3937.38" customimagewidth="800" skinid="ht_node" target="" fov="11.6016"/>
+      <hotspot id="Point02" title="" description="" url="{node3}" customimageheight="800" tilt="2.15" customimage="media/redhotchillypeppers.png" pan="-176.98" use3D="1" distance3D="6990" customimagewidth="800" skinid="ht_node" target="" fov="6.55031"/>
+      <hotspot id="Point03" title="" description="" url="{node25}" customimageheight="1500" tilt="-7.09" customimage="media/redhotchillypeppers - 45.png" pan="44.27" use3D="1" distance3D="10117.5" customimagewidth="2100" skinid="ht_node" target="" fov="11.85"/>
+      <hotspot id="Point04" title="" description="" url="{node27}" customimageheight="800" tilt="-8.09" customimage="media/redhotchillypeppers.png" pan="-353.35" use3D="1" distance3D="8817.05" customimagewidth="800" skinid="ht_node" target="" fov="5.19507"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node27">
+    <input prev5url="images/Слой 27_o_preview_5.jpg" tile0url="images/Слой 27_o_0.jpg" tile5url="images/Слой 27_o_5.jpg" tilevrurl="images/Слой 27_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 27_o_2.jpg" levelingroll="3.42808" prev3url="images/Слой 27_o_preview_3.jpg" prev4url="images/Слой 27_o_preview_4.jpg" tile3url="images/Слой 27_o_3.jpg" prev1url="images/Слой 27_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 27_o_1.jpg" levelingpitch="1.01723" prev2url="images/Слой 27_o_preview_2.jpg" tile4url="images/Слой 27_o_4.jpg" prev0url="images/Слой 27_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.27" pan="-52.01" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node27" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node26}" customimageheight="800" tilt="-12.66" customimage="media/redhotchillypeppers.png" pan="-0.63" use3D="1" distance3D="6860.68" customimagewidth="800" skinid="ht_node" target="" fov="6.67351"/>
+      <hotspot id="Point02" title="" description="" url="{node16}" customimageheight="1500" tilt="-5.33" customimage="media/redhotchillypeppers.png 45.png" pan="-72.23" use3D="1" distance3D="8014.4" customimagewidth="2100" skinid="ht_node" target="" fov="14.9281"/>
+      <hotspot id="Point03" title="" description="" url="{node3}" customimageheight="800" tilt="-1.45" customimage="media/redhotchillypeppers.png" pan="-0.48" use3D="1" distance3D="11212.6" customimagewidth="800" skinid="ht_node" target="" fov="4.08624"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node28">
+    <input prev5url="images/Слой 28_o_preview_5.jpg" tile0url="images/Слой 28_o_0.jpg" tile5url="images/Слой 28_o_5.jpg" tilevrurl="images/Слой 28_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 28_o_2.jpg" levelingroll="3.18388" prev3url="images/Слой 28_o_preview_3.jpg" prev4url="images/Слой 28_o_preview_4.jpg" tile3url="images/Слой 28_o_3.jpg" prev1url="images/Слой 28_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 28_o_1.jpg" levelingpitch="0.235443" prev2url="images/Слой 28_o_preview_2.jpg" tile4url="images/Слой 28_o_4.jpg" prev0url="images/Слой 28_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.67" pan="-18.99" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node28" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node29}" customimageheight="800" tilt="-23.17" customimage="media/redhotchillypeppers.png" pan="-11.76" use3D="1" distance3D="5368.98" customimagewidth="800" skinid="ht_node" target="" fov="8.521559999999999"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node29">
+    <input prev5url="images/Слой 29_o_preview_5.jpg" tile0url="images/Слой 29_o_0.jpg" tile5url="images/Слой 29_o_5.jpg" tilevrurl="images/Слой 29_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 29_o_2.jpg" levelingroll="2.09545" prev3url="images/Слой 29_o_preview_3.jpg" prev4url="images/Слой 29_o_preview_4.jpg" tile3url="images/Слой 29_o_3.jpg" prev1url="images/Слой 29_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 29_o_1.jpg" levelingpitch="0.304654" prev2url="images/Слой 29_o_preview_2.jpg" tile4url="images/Слой 29_o_4.jpg" prev0url="images/Слой 29_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="-2.36" pan="-103.61" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node29" latitude="55.728812" author="" longitude="52.368042" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node21}" customimageheight="800" tilt="-1.4" customimage="media/redhotchillypeppers.png" pan="-88.31" use3D="1" distance3D="7263.82" customimagewidth="800" skinid="ht_node" target="" fov="6.3039"/>
+      <hotspot id="Point02" title="" description="" url="{node28}" customimageheight="1500" tilt="-7.34" customimage="media/redhotchillypeppers.png 45.png" pan="-96.83" use3D="1" distance3D="8743.19" customimagewidth="2100" skinid="ht_node" target="" fov="13.6961"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <panorama id="node30">
+    <input prev5url="images/Слой 30_o_preview_5.jpg" tile0url="images/Слой 30_o_0.jpg" tile5url="images/Слой 30_o_5.jpg" tilevrurl="images/Слой 30_ovr.jpg" tilescale="1.006579" tile2url="images/Слой 30_o_2.jpg" levelingroll="2.10815" prev3url="images/Слой 30_o_preview_3.jpg" prev4url="images/Слой 30_o_preview_4.jpg" tile3url="images/Слой 30_o_3.jpg" prev1url="images/Слой 30_o_preview_1.jpg" tilesize="1520" tile1url="images/Слой 30_o_1.jpg" levelingpitch="2.30509" prev2url="images/Слой 30_o_preview_2.jpg" tile4url="images/Слой 30_o_4.jpg" prev0url="images/Слой 30_o_preview_0.jpg">
+      <preview color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="1" pan="-10.32" fov="70" projection="4"/>
+      <flyin tilt="-90" pan="0" fov="170" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovstereographic="270" tilt="90" scaletofit="1" fovfisheye="360" pan="360" fov="120"/>
+    </view>
+    <userdata title="" description="" info="" nodeid="node30" latitude="55.682358" author="" longitude="52.300012" copyright="" source="" customnodeid="" datetime="07.09.2021 16:48" comment="" tags="гот"/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label borderradius="1" width="180" wordwrap="1" textalpha="1" textcolor="0x000000" borderalpha="1" height="20" backgroundalpha="1" enabled="1" background="1" backgroundcolor="0xffffff" bordercolor="0x000000" border="1"/>
+      <polystyle handcursor="1" borderalpha="1" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" title="" description="" url="{node26}" customimageheight="54" tilt="-4.34" distance="6696.9" customimage="media/redhotchillypeppers.png" pan="-356.87" use3D="1" distance3D="436.34" customimagewidth="54" skinid="ht_node" target="" fov="7.08171"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" blendtime="1" zoomspeed="2" softedge="0" enabled="1" zoomoutpause="1" zoomin="0"/>
+    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" speedwheel="1" lockedwheel="0" lockedmouse="0" invertwheel="0" lockedkeyboard="0" sensitivity="8" contextprojections="0" rubberband="0" contextfullscreen="1" invertcontrol="1" simulatemass="1" dblclickfullscreen="0"/>
+  </panorama>
+  <masternode>
+    <userdata title="" description="" info="" nodeid="master" latitude="" author="" longitude="" copyright="" source="" customnodeid="" datetime="" comment="" tags=""/>
+  </masternode>
+</tour>
