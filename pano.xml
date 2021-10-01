@@ -98,7 +98,7 @@
         <source url="media/mramor.png"/>
       </image>
       <image rotz="-2.000" height="2480" rotx="9.000" tilt="9.460" roty="7.000" clickmode="0" fov="10.491" handcursor="0" pan="-329.620" width="3508" id="Element02" stretch="1.000">
-        <source url="media/zemla.png"/>
+        <source url="media/horeograf_zall.png"/>
       </image>
       <image rotz="0.000" height="2480" rotx="7.000" tilt="8.610" roty="4.000" clickmode="0" fov="19.320" handcursor="0" pan="-149.980" width="3508" id="Element03" stretch="1.000">
         <source url="media/hall2.png"/>
